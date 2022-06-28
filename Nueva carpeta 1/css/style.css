@@ -213,3 +213,8 @@ height: 60px;
         height: 60px;
      }
     }
+    @media screen and (max-width: 767px) {
+        .videos {
+            
+        }
+    }
